@@ -1,4 +1,4 @@
-module github.com/palantir/tenablesc-client
+module github.com/netceteragroup/tenablesc-client
 
 go 1.21
 
